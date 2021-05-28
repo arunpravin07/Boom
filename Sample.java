@@ -15,7 +15,6 @@ class Sample{
 				System.out.println(val);
 		}
 		else
-			System.out.println("No command line "
-							+ "arguments found.");
+			System.out.println("sorry enter text ");
 	}
 }
